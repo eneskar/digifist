@@ -108,7 +108,7 @@ img {
 
 .heading-mobile h5 {
     font-size: 1.25rem;
-    font-family: "AvantBold";
+    font-family: "AvantBold", sans-serif;
     font-weight: 700;
     line-height: 130%;
     color: #fff;
@@ -116,7 +116,7 @@ img {
 }
 
 .heading-mobile a {
-    font-family: "Avenir";
+    font-family: "Avenir", sans-serif;
     font-size: 0.8rem;
     font-weight: 900;
     text-decoration: none;
@@ -146,7 +146,7 @@ img {
 }
 
 .product-card {
-    font-family: "Avenir";
+    font-family: "Avenir", sans-serif;
     line-height: 160%;
     font-size: 0.8rem;
 }
@@ -156,7 +156,7 @@ img {
 }
 
 .product-card h5 {
-    font-family: "Avenir";
+    font-family: "Avenir", sans-serif;
     line-height: 160%;
     font-size: 0.8rem;
     font-weight: 400;
@@ -216,7 +216,7 @@ img {
     body {
         display: flex;
         align-items: center;
-        min-height: 100vh;
+        height: 100vh;
         padding-bottom: 0;
     }
 
@@ -249,7 +249,7 @@ img {
 
     .heading-desktop h5 {
         font-size: 1.953rem;
-        font-family: "AvantBold";
+        font-family: "AvantBold", sans-serif;
         font-weight: 700;
         line-height: 130%;
         margin-bottom: 12px;
@@ -257,7 +257,7 @@ img {
 
     .heading-desktop p {
         font-size: 1rem;
-        font-family: "Avenir";
+        font-family: "Avenir", sans-serif;
         font-weight: 400;
         line-height: 160%;
         color: #666666;
@@ -266,7 +266,7 @@ img {
 
     .heading-desktop a {
         font-size: 12.8px;
-        font-family: "Avenir";
+        font-family: "Avenir", sans-serif;
         font-weight: 900;
         text-decoration: none;
         color: #000;
